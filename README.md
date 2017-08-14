@@ -8,7 +8,7 @@ Then I look at some data collected from others who have performed the same task 
 Finally, I interpreted the results in terms of your hypotheses.
 
 
-##Details about the Stroop's  Effect experiment and how I proceeded:
+Details about the Stroop's  Effect experiment and how I proceeded:
 
 The Dependent variable is the time taken to name the ink color. And the the independent variable is, the two different conditions. 
 For example, whether the color and word is congruent or incongruent is independent with other conditions.
