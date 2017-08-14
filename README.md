@@ -1,11 +1,14 @@
 
+
 # Test-a-Perceptual-Phenomenon
 Applied statistical approach to analyze the data given by an experiment called Stroop's Effect
 In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect.
 I learnt a little bit about the experiment, created a hypothesis regarding the outcome of the task, then went through the task myself. 
 Then I look at some data collected from others who have performed the same task and computed some statistics describing the results. 
 Finally, I interpreted the results in terms of your hypotheses.
-Details about the Stroop's  Effect experiment and how I proceeded:
+
+
+###Details about the Stroop's  Effect experiment and how I proceeded:
 
 The Dependent variable is the time taken to name the ink color. And the the independent variable is, the two different conditions. 
 For example, whether the color and word is congruent or incongruent is independent with other conditions.
