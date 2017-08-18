@@ -1,6 +1,7 @@
 
 
 
+
 # Test-a-Perceptual-Phenomenon
 Applied statistical approach to analyze the data given by an experiment called Stroop's Effect
 In this project, I investigated a classic phenomenon from experimental psychology called the Stroop Effect.
@@ -17,6 +18,7 @@ For example, whether the color and word is congruent or incongruent is independe
 Now analysing the hypothesis :
 <li>Null Hypothesis(H0) H0 : (myu sub c) X = (myu sub ic)Y, Y - X = 0,</li> <li> Alternative Hypothesis(H1) H1 : X < Y,
 where X is average for the congruent variable and Y is average for incongruent variable.</li>
+
 
 We will perform dependent t-test for paired samples, because as the sample is not changing only the reading time is changing with the
 two conditions, congruent and incongruent.
