@@ -15,7 +15,7 @@ The Dependent variable is the time taken to name the ink color. And the the inde
 For example, whether the color and word is congruent or incongruent is independent with other conditions.
 
 Now analysing the hypothesis :
-<li>Null Hypothesis(H0) H0 : (myu sub c) X = (myu sub ic)Y, Y - X = 0, Alternative Hypothesis(H1) H1 : X < Y,
+<li>Null Hypothesis(H0) H0 : (myu sub c) X = (myu sub ic)Y, Y - X = 0,</li> <li> Alternative Hypothesis(H1) H1 : X < Y,
 where X is average for the congruent variable and Y is average for incongruent variable.</li>
 
 We will perform dependent t-test for paired samples, because as the sample is not changing only the reading time is changing with the
